@@ -212,9 +212,8 @@ button {
 }
 ```
 ## Output:
-<img width="1919" height="1079" alt="Screenshot 2025-07-19 201455" src="https://github.com/user-attachments/assets/7d1cc6c5-6d6b-4e4e-bf49-7933646c83c0" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-19 201511" src="https://github.com/user-attachments/assets/b72fc86d-e5cb-4090-9b07-388e693f5be0" />
-
+<img width="1919" height="1079" alt="Screenshot 2025-07-19 201455" src="https://github.com/user-attachments/assets/40d285e6-6d82-4242-9caa-85509fbbc6b0" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-19 201511" src="https://github.com/user-attachments/assets/1b4e220e-ceeb-47f2-936c-e0524513e515" />
 
 ## Result:
 A responsive single-page application using React that allows users to enter a city name and retrieve real-time weather information using the OpenWeatherMap API has been built successfully. 
